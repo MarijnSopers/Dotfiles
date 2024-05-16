@@ -1,0 +1,39 @@
+2024/05/15-22:45:39.672 14fb Reusing MANIFEST /home/marijn/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/15-22:45:39.672 14fb Recovering log #47
+2024/05/15-22:45:39.684 14fb Reusing old log /home/marijn/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000047.log 
+2024/05/15-22:45:41.056 14fc Level-0 table #52: started
+2024/05/15-22:45:41.064 14fc Level-0 table #52: 1060880 bytes OK
+2024/05/15-22:45:41.068 14fc Delete type=0 #47
+2024/05/15-22:45:47.598 14fb Compacting 1@1 + 1@2 files
+2024/05/15-22:45:47.603 14fb Generated table #53@1: 367 keys, 48875 bytes
+2024/05/15-22:45:47.603 14fb Compacted 1@1 + 1@2 files => 48875 bytes
+2024/05/15-22:45:47.607 14fb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/15-22:45:47.607 14fb Delete type=2 #52
+2024/05/15-22:45:47.607 14fb Delete type=2 #49
+2024/05/15-23:34:38.717 14fc Level-0 table #55: started
+2024/05/15-23:34:38.727 14fc Level-0 table #55: 1163799 bytes OK
+2024/05/15-23:34:38.732 14fc Delete type=0 #51
+2024/05/15-23:35:18.818 14fb Compacting 1@1 + 1@2 files
+2024/05/15-23:35:18.825 14fb Generated table #56@1: 385 keys, 48156 bytes
+2024/05/15-23:35:18.825 14fb Compacted 1@1 + 1@2 files => 48156 bytes
+2024/05/15-23:35:18.829 14fb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/15-23:35:18.829 14fb Delete type=2 #53
+2024/05/15-23:35:18.829 14fb Delete type=2 #55
+2024/05/16-00:05:14.496 14fc Level-0 table #58: started
+2024/05/16-00:05:14.505 14fc Level-0 table #58: 1234083 bytes OK
+2024/05/16-00:05:14.509 14fc Delete type=0 #54
+2024/05/16-00:07:07.978 14fc Compacting 1@1 + 1@2 files
+2024/05/16-00:07:07.987 14fc Generated table #59@1: 414 keys, 41587 bytes
+2024/05/16-00:07:07.987 14fc Compacted 1@1 + 1@2 files => 41587 bytes
+2024/05/16-00:07:07.991 14fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-00:07:07.991 14fc Delete type=2 #58
+2024/05/16-00:07:07.991 14fc Delete type=2 #56
+2024/05/16-00:22:27.779 14fc Level-0 table #61: started
+2024/05/16-00:22:27.787 14fc Level-0 table #61: 1041058 bytes OK
+2024/05/16-00:22:27.791 14fc Delete type=0 #57
+2024/05/16-00:22:42.375 14fb Compacting 1@1 + 1@2 files
+2024/05/16-00:22:42.384 14fb Generated table #62@1: 446 keys, 42062 bytes
+2024/05/16-00:22:42.384 14fb Compacted 1@1 + 1@2 files => 42062 bytes
+2024/05/16-00:22:42.388 14fb compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/16-00:22:42.388 14fb Delete type=2 #61
+2024/05/16-00:22:42.388 14fb Delete type=2 #59

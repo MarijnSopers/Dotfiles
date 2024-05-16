@@ -1,0 +1,21 @@
+2024/05/16-09:38:43.865 4 Reusing MANIFEST /home/marijn/.config/chromium/Default/Session Storage/MANIFEST-000001
+2024/05/16-09:38:43.866 4 Recovering log #53
+2024/05/16-09:38:43.866 4 Reusing old log /home/marijn/.config/chromium/Default/Session Storage/000053.log 
+2024/05/16-10:00:48.281 6 Level-0 table #57: started
+2024/05/16-10:00:48.298 6 Level-0 table #57: 22107 bytes OK
+2024/05/16-10:00:48.305 6 Delete type=0 #53
+2024/05/16-10:01:43.116 6 Level-0 table #59: started
+2024/05/16-10:01:43.134 6 Level-0 table #59: 70809 bytes OK
+2024/05/16-10:01:43.144 6 Delete type=0 #56
+2024/05/16-10:01:43.144 6 Compacting 4@0 + 1@1 files
+2024/05/16-10:01:43.152 6 Generated table #60@0: 2032 keys, 111255 bytes
+2024/05/16-10:01:43.152 6 Compacted 4@0 + 1@1 files => 111255 bytes
+2024/05/16-10:01:43.156 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/16-10:01:43.156 6 Delete type=2 #54
+2024/05/16-10:01:43.156 6 Delete type=2 #52
+2024/05/16-10:01:43.156 6 Delete type=2 #59
+2024/05/16-10:01:43.156 6 Delete type=2 #57
+2024/05/16-10:01:43.156 6 Delete type=2 #50
+2024/05/16-10:02:54.593 6 Level-0 table #62: started
+2024/05/16-10:02:54.597 6 Level-0 table #62: 81088 bytes OK
+2024/05/16-10:02:54.601 6 Delete type=0 #58

@@ -1,0 +1,30 @@
+# starship.toml
+
+# General settings
+add_newline = true
+
+# Integrations
+[shell]
+bash = true
+zsh = true
+nushell = true
+
+# Directory segment
+[directory]
+format = "[ ](bold #89b4fa)[ $path ]($style)"
+style = "bold #b4befe"
+
+# Character segment
+[character]
+success_symbol = "[ ](bold #89b4fa)[ ➜](bold green)"
+error_symbol = "[ ](bold #89b4fa)[ ➜](bold red)"
+
+# Command duration segment
+[cmd_duration]
+format = "[]($style)[[󰔚 ](bg:#161821 fg:#d4c097 bold)$duration](bg:#161821 fg:#BBC3DF)[ ]($style)"
+disabled = false
+style = "bg:none fg:#161821"
+
+# Palette settings
+[theme]
+palette = "catppuccin_mocha"

@@ -1,0 +1,3 @@
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[{\"address\":\"192.168.178.112\",\"app_state\":\"MISSING\",\"created_timestamp\":1715808038,\"device_id\":\"e20146d3-8f2a-42a3-8817-9f58d8cd310e\",\"dial_location_url\":\"http://192.168.178.112:8091/dd.xml\",\"display_name\":\"Mediabox\",\"last_seen\":1715810137,\"manufacturer\":\"\",\"model_name\":\"DCX960\",\"product_cap\":\"\",\"public_ip\":\"89.98.246.32\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"9cc8fc2d964a\",\"port\":9,\"retries\":400}}]"
+app.player.volume=1988
